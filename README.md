@@ -10,5 +10,5 @@ It provides modern and lightweight tools for text preprocessing, feature extract
 - 📊 **Feature Extraction** → Bag of Words (BoW), TF-IDF Vectorizer.  
 - 🤖 **Basic NLP Models** → Simple classifiers for sentiment analysis & text categorization.  
 - ⚡ **KTX Extensions** → Write concise, expressive, and idiomatic Kotlin code.
-- 📄**Text Similarity** -> Checking text similarity using Jaccard and cosine similarity
+- 📄**Text Similarity** → Checking text similarity using Jaccard and cosine similarity
 ---
