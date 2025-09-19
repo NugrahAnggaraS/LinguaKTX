@@ -1,4 +1,5 @@
-![Image](https://github.com/user-attachments/assets/d41e5d2e-5bb9-4bab-81ac-dd9e3cd60f07)
+<img src="https://github.com/user-attachments/assets/67e19eb6-830a-44f6-ac28-552a64367922" alt="LinguaKTX Logo" width="200"/>
+
 # 🌐 LinguaKTX
 
 **LinguaKTX** is a **Kotlin-first Natural Language Processing (NLP) library** powered by KTX extensions.  
