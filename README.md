@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/67e19eb6-830a-44f6-ac28-552a64367922" alt="LinguaKTX Logo" width="200"/>
+<img src="https://github.com/user-attachments/assets/67e19eb6-830a-44f6-ac28-552a64367922" alt="LinguaKTX Logo" width="100%" height="300"/>
 
 # 🌐 LinguaKTX
 
